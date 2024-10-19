@@ -13,6 +13,8 @@ For more information on SSH tunnels and proxies, you can refer to the following 
 - Save and manage connection history for easy access.
 - Validate IP addresses for secure connections.
 
+<img src="img/s-shot.jpg" alt="Screenshot" width="300"/>
+
 ## Installation
 1. Clone the repository or download the source code.
 2. Open the project in Visual Studio.
