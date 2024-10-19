@@ -1,6 +1,6 @@
 # SSH SocksV5 Proxy Connect
 
-![Agent Smith](img/agent-smith.jpg)
+<img src="img/s-shot.jpg" alt="Screenshot" width="500"/>
 
 ## Overview
 SSH SocksV5 Proxy Connect is a Windows application that allows users to open a SOCKS proxy on the localhost via an SSH connection using a remote port forward tunnel. This tool simplifies the process of creating secure, tunneled connections to remote servers, facilitating secure access to resources and enhanced privacy.
@@ -12,8 +12,6 @@ For more information on SSH tunnels and proxies, you can refer to the following 
 - Open a SOCKS5 proxy on the localhost.
 - Save and manage connection history for easy access.
 - Validate IP addresses for secure connections.
-
-<img src="img/s-shot.jpg" alt="Screenshot" width="500"/>
 
 ## Installation
 1. Clone the repository or download the source code.
