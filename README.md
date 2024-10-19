@@ -23,7 +23,7 @@ For more information on SSH tunnels and proxies, you can refer to the following 
 1. Enter the SSH server IP address in the "SSH Server" field.
 2. Specify the desired SOCKS port.
 3. Click "Connect" to establish the SSH connection and open the SOCKS proxy.
-4. Click "Disconnect" to close the connection and the proxy.
+4. Click "Disconnect", or "Exit", to close the connection and the proxy.
 
 ## Disclaimer
 This application is intended for educational and legitimate use only. The developer is not responsible for any malicious usage or activities carried out using this software. Users should ensure they comply with all applicable laws and regulations regarding the use of SSH tunneling and proxy services.
